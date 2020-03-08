@@ -1,0 +1,5 @@
+de\kisirisoft\tools\db\oracle\client\DbConnection.class
+de\kisirisoft\tools\db\oracle\client\OracleExecuter.class
+de\kisirisoft\tools\db\oracle\client\Utils.class
+de\kisirisoft\tools\db\oracle\client\ClassHelper.class
+de\kisirisoft\tools\db\oracle\client\Doit.class
